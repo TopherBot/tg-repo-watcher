@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+.venv/
+.envrc
+.DS_Store
+# Docker artefacts
+Dockerfile
+*.log
+# IDEA / VSCode folders
+.idea/
+.vscode/
