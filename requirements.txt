@@ -1,0 +1,5 @@
+python-telegram-bot==21.0
+requests==2.32.3
+ruff==0.5.1
+pytest==8.3.2
+sqlite3==0.0.0  # builtin, placeholder for CI lint
